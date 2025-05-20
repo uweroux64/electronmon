@@ -1,0 +1,10 @@
+{
+  "name": "electronmon",
+  "version": "0.1.0",
+  "description": "\ud83d\udda5 run, watch, and restart electron apps using magic",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
